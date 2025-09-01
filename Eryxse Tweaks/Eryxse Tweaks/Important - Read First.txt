@@ -1,0 +1,28 @@
+Credits & Disclaimer
+
+Special thanks to the following contributors for their insights and improvements:
+
+    imribiy – AMD GPU tweaks
+
+    Melody – AMD system tweaks
+
+    Redwan – Pack integration
+
+    ADEX – RAM optimization
+
+    tarekifla – Restore points & registry backups
+
+    Chicho – GUI contributions
+
+    gryOS – Affinity tuning
+
+    Hone – Game configs & general tweaks
+
+While I authored and organized the majority of this project, their knowledge greatly enhanced it.
+
+    Please create a registry backup and system restore point before use.
+    Use at your own discretion. I am not responsible for any damage or system issues that may occur.
+
+This is an original project. Any resemblance to other works is purely coincidental.
+
+Thank you for your support.
